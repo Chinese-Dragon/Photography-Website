@@ -1,0 +1,59 @@
+.intro-header {
+	margin-bottom: 0;
+}
+
+.credit {
+	font-size: 0.6em;
+}
+
+.open {
+	background-color: black;
+}
+
+.dropdown-menu {
+	background-color: dimgray;
+}
+
+.modal-header {
+	background-color: black;
+	color: white !important;
+	text-align: center;
+	font-size: 30px;
+}
+
+.button-block {
+	background: black;
+}
+
+.modal-footer {
+	background-color: #f9f9f9;
+	font-size: 13px;
+}
+
+.lst {
+	text-align: center;
+}
+
+.status-available{
+    color:#2FC332;
+    font-size: 16px;
+    
+}
+.status-not-available{
+    color:#D60202;
+    font-size: 16px;
+}
+
+.error-list{
+    font-size: 16px;
+}
+
+.login-not-available{
+    color:#D60202;
+    font-size: 16px;
+    padding-left: 40px;
+}
+
+img:hover {
+    cursor:pointer;
+}
